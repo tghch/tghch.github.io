@@ -29,7 +29,7 @@ categories: news
 
 该联盟存在的目的是想要帮助这个世代的人们能够在混乱、纷扰的噪音中清楚地听到耶稣基督的声音，就像彼得一样回应这位救主说：“主啊，你有永生之道，我们还归从谁呢？”（约6:68）。该联盟希望通过对永生之道的传播能给这不稳定的、被罪掌权的世界带来转变。福音联盟希望透过多媒体资源、文字内容、活动、书籍出版和国际化的拓展达成目的。
 
-面对微信公众号被封锁，中国相关部门没有给出封锁期限，依据以往的案例，很可能是永久性封锁。该联盟官方脸书在声明中表示：欢迎各位读者浏览其官方”网站（tgcchinese.org）或Telegram频道（t.me/tgcchinese）或Facebook页面（facebook.com/tgccn）。每日文章更新照常。”
+面对微信公众号被封锁，中国相关部门没有给出封锁期限，依据以往的案例，很可能是永久性封锁。该联盟官方脸书在声明中表示：欢迎各位读者浏览其官方”网站（[tgcchinese.org](https://tgcchinese.org)）或Telegram频道（[t.me/tgcchinese](https://t.me/tgcchinese)）或Facebook页面（[facebook.com/tgccn](https://facebook.com/tgccn)）。每日文章更新照常。”
 
 (对华援助协会特约通讯员高珍赛)
 
