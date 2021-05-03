@@ -2,7 +2,7 @@
 layout: post
 title:  "重症与临终关怀事工培训"
 author: 關懷事工小組
-date:   2021-05-3 08:22:43 +0800
+date:   2021-05-03 08:22:43 +0800
 categories: notices
 ---
 各位弟兄姐妹：
