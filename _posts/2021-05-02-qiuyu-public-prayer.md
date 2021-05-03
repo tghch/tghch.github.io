@@ -2,7 +2,7 @@
 layout: post
 title:  "秋雨圣约教会本周公祷事项【20210502】"
 author: 秋雨圣约教会
-date:   2021-05-2 08:22:43 +0800
+date:   2021-05-02 08:22:43 +0800
 categories: prayers
 ---
 ![qiuyu-prayer](/images/qiuyu-prayer.jfif)

@@ -2,7 +2,7 @@
 layout: post
 title:  "平原讲道声声雷（下）"
 author: 毛志斌
-date:   2021-05-2 08:22:43 +0800
+date:   2021-05-02 08:22:43 +0800
 categories: sermons
 ---
 ![jesus-preaching](/images/jesus-preaching.webp)
