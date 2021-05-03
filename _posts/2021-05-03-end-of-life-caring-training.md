@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "重症与临终关怀事工培训"
-author: 贵阳仁爱归正福音教会
+author: 關懷事工小組
 date:   2021-05-3 08:22:43 +0800
 categories: notices
 ---
