@@ -19,4 +19,4 @@ categories: prayers
 贵阳仁爱归正福音教会
 主后2021年5月5日
 
-![guiyang-church-prayer-20210505](/images/guiyang-church-prayer-20210505.jpg)
+![guiyang-church-prayer-20210505](/images/guiyang-church-prayer-20210505.JPG)
