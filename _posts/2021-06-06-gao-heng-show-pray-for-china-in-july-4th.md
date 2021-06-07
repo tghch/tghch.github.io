@@ -6,7 +6,7 @@ date:   2021-06-06 14:22:43 +0800
 categories: news
 ---
 
-![gao-heng-64](C:\usr\sztghc\tghch.github.io\images\gao-heng-64.jpg)
+![gao-heng-64](/images/gao-heng-64.jpg)
 
 （维权网信息中心报道）2021年6月6日，本网获悉：2021年6月5日凌晨1点，居住在广州南浦的基督徒高恒，半夜在家中被警察上门抓捕。
 
