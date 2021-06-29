@@ -22,7 +22,7 @@ Blessed are they which do hunger and thirst after righteousness， for they shal
 
  “为义受逼迫的人有福了！因为天国是他们的。「人若因我辱骂你们，逼迫你们，捏造各样坏话毁谤你们，你们就有福了！应当欢喜快乐，因为你们在天上的赏赐是大的。在你们以前的先知，人也是这样逼迫他们。」”(太5:10-12)
 
-[收聽音頻](/audios/20210627_Recording.mp3)
+[收聽音頻](https://media.githubusercontent.com/media/tghch/tghch.github.io/master/audios/20210627-Recording.mp3)
 
 前言
 
