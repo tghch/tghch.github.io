@@ -60,7 +60,8 @@ By these were the isles of the Gentiles divided in their lands; every one after 
 
 Of the greatness of his government and peace there will be no end. He will reign on David’s throne and over his kingdom, establishing and upholding it with justice and righteousness from that time on and forever. The zeal of the LORD Almighty will accomplish this.（Isa 9:7）
 
-  לָמֹרַבָּה הַמִּשְׂרָ֜ה וּלְשָׁל֣וֹם אֵֽין־קֵ֗ץ עַל־כִּסֵּ֤א דָוִד֙  וְעַל־מַמְלַכְתּוֹ֔ לְהָכִ֤ין אֹתָהּ֙ וּֽלְסַעֲדָ֔הּ בְּמִשְׁפָּ֖ט וּבִ[צְדָקָ֑ה](https://ref.ly/logosres/wivumorph?pos=Article%3dQ.IS.9|ArticleLength%3d2418|Context%3dפָּ֖ט%20וּבִצְדָקָ֑ה%20מ|Offset%3d780|OffsetInContext%3d10|Resource%3dLLS%3aWIVUMORPH|Version%3d2017-04-07T18%3a00%3a20Z) מֵעַתָּה֙ וְעַד־עוֹלָ֔ם קִנְאַ֛ת יְהוָ֥ה  צְבָא֖וֹת תַּעֲשֶׂה־זֹּֽאת׃ ס      
+  לָמֹרַבָּה הַמִּשְׂרָ֜ה וּלְשָׁל֣וֹם אֵֽין־קֵ֗ץ עַל־כִּסֵּ֤א דָוִד֙  וְעַל־מַמְלַכְתּוֹ֔ לְהָכִ֤ין אֹתָהּ֙ וּֽלְסַעֲדָ֔הּ בְּמִשְׁפָּ֖ט וּבִ[צְדָקָ֑ה] מֵעַתָּה֙ 
+וְעַד־עוֹלָ֔ם קִנְאַ֛ת יְהוָ֥ה  צְבָא֖וֹת תַּעֲשֶׂה־זֹּֽאת׃ 
 
 在新约是希腊字dikaiosynē的字群（英文译为righteousness ，中文译为公正、公平、公义、义，正直出现95次）。
 
