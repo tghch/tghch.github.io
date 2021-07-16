@@ -22,5 +22,5 @@ categories: sermons
 六、神对耶利哥城及其所代表的一切的审判，具有延展性（书6：26）    
 七、约书亚因神的同在和顺从神的领导而一战成名（书6：27）    
 
-[收聽音頻](/audios/20210704-Recording.mp3)
+[收聽音頻](https://github.com/tghch/tghch.github.io/raw/master/audios/20210704-Recording.mp3)
 
