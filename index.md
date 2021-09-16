@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+![tghc-value-2](/images/tghc-value-2.jpg)
+
