@@ -4,6 +4,8 @@ title: 关于
 permalink: /about/
 ---
 
+![tghc-value-2](/images/tghc-value-2.jpg)
+
 ### 深圳三一福音丰收教会
 
 我们的异象：建造三一上帝的荣耀教会, 带出宣教中国的生命影响！
