@@ -34,7 +34,7 @@ categories: sermons
 
 【路1:55】为要记念亚伯拉罕和他的后裔，施怜悯直到永远，正如从前对我们列祖所说的话。”
 
-[收聽音頻](/audios/20211226-Recording.mp3)  
+[收聽音頻](https://media.githubusercontent.com/media/tghch/tghch.github.io/master/audios/20211226-Recording.mp3)  
 
 
 
