@@ -24,6 +24,8 @@ KJV 英出20:17Thou shalt not covet thy neighbour's house, thou shalt not covet 
 
 NIV 英出20:17"You shall not covet your neighbor's house. You shall not covet your neighbor's wife, or his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor."
 
+[收聽音頻](/audios/20220306-Recording.m4a) 
+
 **前言：什么才能填满人心的空洞****？**
 
 弟兄姐妹主日平安，今天我们分享十诫最后一条诫命第十诫，让我们一起来宣读《出埃及记》20章17节第十诫的经文：**“不可贪恋人的房屋；也不可贪恋人的妻子、仆婢、牛驴，并他一切所有的。”** 第十诫命关键词是贪恋，这一诫命被简称为“不可贪心”，是对我们内心僭越上帝所设立界限的动机的禁止，上帝命令禁止贪心，这一诫命和其他九诫不同，它直指我们内心。其他九诫清楚谴责的是外在行为。如雕刻偶像、不守安息日、杀害无辜者、犯奸淫的行为、偷盗邻舍的财产等等， 这些诫命也禁止人内心的罪如恨人和情欲。但前九诫字面上是从禁止外在的行为开始，后才深入到人内心的层面。箴言书说“**你要保守你心，胜过保守一切（或作“你要切切保守你心”），因为一生的果效，是由心发出。”（箴****4:23）**
