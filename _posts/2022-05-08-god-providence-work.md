@@ -8,4 +8,4 @@ categories: sunday-school
 
 [收聽音頻](/audios/2022050802-Recording.m4a) 
 
-![20220508上帝的护理之工_Page_1](/images/god-providence-work/Slide1.JPG)
+![20220508上帝的护理之工_Page_1](/images/god-providence-work/Slide1.jpg)
