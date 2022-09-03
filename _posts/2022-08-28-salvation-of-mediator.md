@@ -12,7 +12,7 @@ categories: sermons
 
 毛志斌 Abraham Mao
 
-[收聽音頻](/audios/2022082801-Recording.mp3) 
+[收聽音頻](https://media.githubusercontent.com/media/tghch/tghch.github.io/master/audios/2022082801-Recording.mp3) 
 
 #### 经文：
 
