@@ -14,7 +14,7 @@ categories: sermons
 
 毛志斌 Abraham Mao
 
-[收聽音頻](https://github.com/tghch/tghch.github.io/raw/master/audios/20221113-Recording.m4a) 
+<audio src="https://github.com/tghch/tghch.github.io/raw/master/audios/20221113-Recording.m4a" preload="auto" controls loop>   你的浏览器不支持 audio 标签。 </audio>
 
 #### **经文**：
 
