@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "湍流中站立得稳"
+title:  "湍流中站稳得胜"
 author: 曹源
 date:   2023-07-30 14:22:43 +0800
 categories: sermons
