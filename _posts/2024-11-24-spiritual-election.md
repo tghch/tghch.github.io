@@ -2,7 +2,7 @@
 layout: post
 title: 真正的选举是属灵的
 author: ENOCH LAI
-date: 2024-11-17 9:30:00 +0800
+date: 2024-11-24 9:30:00 +0800
 categories: sermons 
 ---
 
