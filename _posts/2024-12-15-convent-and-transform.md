@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 论《圣约神学与中国转型五大意义
+title: 论《圣约神学与中国转型五大意义》
 author: ENOCH LAI
 date: 2024-12-15 9:30:00 +0800
 categories: sermons 
