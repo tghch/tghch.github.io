@@ -1,15 +1,15 @@
 ---
 
 layout: post
-title: 第一福音书马太信息系列五---属灵的出埃及
-author: 毛志斌
+title: 基督信仰的完美画卷
+author: Enoch Lai
 date: 2025-02-23 9:30:00 +0800
 categories: sermons 
 ---
 
 ### **基督信仰的完美画卷**
 
-EnochLai
+Enoch Lai
 
 ![20250223](/images/20250223.jpg)
 
