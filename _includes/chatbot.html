@@ -1,0 +1,201 @@
+<!-- OneSeed AI Chatbot Integration -->
+<style>
+  #chatbot-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #4a86e8;
+    color: white;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    transition: all 0.3s ease;
+  }
+  
+  #chatbot-button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  }
+  
+  #chatbot-button svg {
+    width: 30px;
+    height: 30px;
+  }
+  
+  #chatbot-iframe-container {
+    position: fixed;
+    bottom: 90px;
+    right: 20px;
+    width: 350px;
+    height: 500px;
+    z-index: 1001;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  #chatbot-iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+  
+  @media (max-width: 480px) {
+    #chatbot-iframe-container {
+      width: 90%;
+      height: 80%;
+      bottom: 80px;
+      right: 5%;
+    }
+  }
+</style>
+
+<button id="chatbot-button" aria-label="Open AI Chatbot">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+  </svg>
+</button>
+
+<div id="chatbot-iframe-container">
+  <iframe id="chatbot-iframe" allow="microphone" title="AI Chatbot"></iframe>
+</div>
+
+<script>
+  (function() {
+    // Initialize as soon as possible
+    var chatbotButton = document.getElementById('chatbot-button');
+    var chatbotContainer = document.getElementById('chatbot-iframe-container');
+    var chatbotIframe = document.getElementById('chatbot-iframe');
+    var isOpen = false;
+    var isInitialized = false;
+    var iframeLoaded = false;
+    
+    // Function to toggle chatbot visibility
+    function toggleChatbot(event) {
+      if (event) {
+        event.preventDefault();
+        event.stopPropagation();
+      }
+      
+      if (isOpen) {
+        closeChatbot();
+      } else {
+        openChatbot();
+      }
+    }
+    
+    // Function to load iframe content
+    function loadIframeContent() {
+      if (!iframeLoaded) {
+        chatbotIframe.src = "https://chat.oneseed.ai/bot/9f4a5b1d-b31f-4ea3-be00-1c835bf273e2";
+        iframeLoaded = true;
+      }
+    }
+    
+    // Function to open chatbot
+    function openChatbot() {
+      // Load iframe content if not already loaded
+      loadIframeContent();
+      
+      // Make container visible
+      chatbotContainer.style.display = 'block';
+      
+      // Force layout recalculation
+      chatbotContainer.offsetHeight;
+      
+      // Small delay to ensure display:block is applied before changing opacity
+      setTimeout(function() {
+        chatbotContainer.style.opacity = '1';
+        
+        // Focus the iframe to ensure proper initialization
+        chatbotIframe.focus();
+        
+        // Send a message to the iframe to trigger any initialization
+        try {
+          chatbotIframe.contentWindow.postMessage('focus', '*');
+        } catch (e) {
+          console.log('Could not send message to iframe');
+        }
+      }, 10);
+      
+      chatbotButton.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>';
+      isOpen = true;
+    }
+    
+    // Function to close chatbot
+    function closeChatbot() {
+      chatbotContainer.style.opacity = '0';
+      // Wait for opacity transition to complete before hiding
+      setTimeout(function() {
+        chatbotContainer.style.display = 'none';
+      }, 300);
+      
+      chatbotButton.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>';
+      isOpen = false;
+    }
+    
+    // Function to handle clicks outside the chatbot
+    function handleOutsideClick(event) {
+      if (isOpen && !chatbotContainer.contains(event.target) && event.target !== chatbotButton && !chatbotButton.contains(event.target)) {
+        closeChatbot();
+      }
+    }
+    
+    // Function to handle iframe load event
+    function handleIframeLoad() {
+      // When iframe loads, try to focus and initialize the input area
+      if (isOpen) {
+        chatbotIframe.focus();
+        try {
+          chatbotIframe.contentWindow.postMessage('focus', '*');
+        } catch (e) {
+          console.log('Could not send message to iframe');
+        }
+      }
+    }
+    
+    // Initialize event listeners
+    function initChatbot() {
+      if (isInitialized) return;
+      
+      // Use multiple event types for better reliability
+      chatbotButton.addEventListener('click', toggleChatbot);
+      chatbotButton.addEventListener('touchend', toggleChatbot);
+      
+      document.addEventListener('click', handleOutsideClick);
+      document.addEventListener('touchend', handleOutsideClick);
+      
+      // Add load event listener to iframe
+      chatbotIframe.addEventListener('load', handleIframeLoad);
+      
+      // Preload iframe content in the background for faster initial display
+      setTimeout(loadIframeContent, 3000);
+      
+      isInitialized = true;
+    }
+    
+    // Initialize immediately if DOM is already loaded
+    if (document.readyState === 'complete' || document.readyState === 'interactive') {
+      initChatbot();
+    } else {
+      // Otherwise wait for DOM to be ready
+      document.addEventListener('DOMContentLoaded', initChatbot);
+    }
+    
+    // Backup initialization - ensure it runs even if DOMContentLoaded doesn't fire
+    window.addEventListener('load', initChatbot);
+    
+    // Make sure button is visible and clickable
+    setTimeout(initChatbot, 1000);
+  })();
+</script> 
