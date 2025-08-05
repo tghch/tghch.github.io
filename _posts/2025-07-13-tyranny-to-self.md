@@ -10,7 +10,7 @@ categories: sermons
 
 ## “治理好自己，才能对抗暴政、远离暴政”
 
-![20250713](C:\usr\sztghc\repos\tghch.github.io\images\20250713.jpg)
+![20250713](/images/20250713.jpg)
 
 #### 引言
 
